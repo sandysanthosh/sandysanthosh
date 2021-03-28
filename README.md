@@ -39,12 +39,13 @@
 <br />
 <br />
 
-### Country Visited:
+### Country:
 
 <img align="left" alt="Spain" width="26px" src="https://cdn.countryflags.com/thumbs/spain/flag-400.png" >
 <img align="left" alt="Netherland" width="26px" src="https://cdn.countryflags.com/thumbs/netherlands/flag-400.png" >
 <img align="left" alt="France" width="26px" src="https://cdn.countryflags.com/thumbs/france/flag-400.png" >
-<img align="left" alt="Belgium" width="26px" src="https://cdn.countryflags.com/thumbs/belgium/flag-400.png" >
+<img align="left" alt="Belgium" width="22px" src="https://cdn.countryflags.com/thumbs/belgium/flag-400.png" >
+
 
 
 <img align="left" alt="sandysanthosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandysanthosh&show_icons=true&hide_border=true" />
