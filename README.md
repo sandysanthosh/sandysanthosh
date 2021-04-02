@@ -13,6 +13,7 @@
 [<img align="left" alt="santhosh-kumar-0415617b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="santhosh_kar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="santhosh.sandy.5076 | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="https://wa.me/9566911041" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 
 <br />
@@ -32,8 +33,6 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
 <br />
 
 ### Country:
@@ -43,15 +42,12 @@
 <img align="left" alt="Netherland" width="26px" src="https://cdn.countryflags.com/thumbs/netherlands/flag-400.png" >
 <img align="left" alt="France" width="26px" src="https://cdn.countryflags.com/thumbs/france/flag-400.png" >
 <img align="left" alt="Belgium" width="22px" src="https://cdn.countryflags.com/thumbs/belgium/flag-400.png" >
-
-<br />
 <br />
 
 ### Education:
 
 <img align="left" alt="Belgium" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Vellore_Institute_of_Technology_seal_2017.svg/1200px-Vellore_Institute_of_Technology_seal_2017.svg.png" /></tr> B.TECH(IT) <img align="left" alt="Belgium" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" /> MBA </tr>
 
-<br />
 <br />
 
 <img align="left" alt="sandysanthosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandysanthosh&show_icons=true&hide_border=true" />
@@ -61,3 +57,8 @@
 [instagram]: https://www.instagram.com/santhosh_kar
 [linkedin]: https://www.linkedin.com/in/santhosh-kumar-0415617b/
 [facebook]: https://www.facebook.com/santhosh.sandy.5076
+[whatsapp]: https://wa.me/9566911041
+
+
+
+
