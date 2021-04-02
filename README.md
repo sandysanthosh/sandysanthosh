@@ -49,7 +49,7 @@
 
 ### Education:
 
-<img align="left" alt="Belgium" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Vellore_Institute_of_Technology_seal_2017.svg/1200px-Vellore_Institute_of_Technology_seal_2017.svg.png" /></tr> B.TECH(IT)<img align="left" alt="Belgium" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" /> MBA
+<img align="left" alt="Belgium" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Vellore_Institute_of_Technology_seal_2017.svg/1200px-Vellore_Institute_of_Technology_seal_2017.svg.png" /></tr> B.TECH(IT) <img align="left" alt="Belgium" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" /> MBA </tr>
 
 <br />
 <br />
