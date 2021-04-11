@@ -52,6 +52,12 @@
 
 <img align="left" alt="sandysanthosh Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandysanthosh&show_icons=true&hide_border=true" />
 
+<br />
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sandysanthosh&&style=flat-square" align="center" />
+</div>  
+
 [website]: http://starwalt.in/
 [twitter]: https://twitter.com/sandykarth
 [instagram]: https://www.instagram.com/santhosh_kar
