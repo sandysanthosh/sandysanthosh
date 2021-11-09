@@ -1,7 +1,7 @@
 ### Hi there, I'm Santhosh Kumar 👋
 
 ## I'm a Java Developer working in J2EE, Spring Boot and Microservices (Tutor)!
-- 🔭 I’m currently working on a [Spring Boot & Microservices]
+- 🔭 I’m currently working on a [Java, Spring Boot & Microservices]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Spring Boot project contributors
 - 🥅 2021 Goals: Contribute more to Open Source projects
