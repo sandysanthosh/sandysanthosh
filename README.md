@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a [Java, Spring Boot & Microservices]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Spring Boot project contributors
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
