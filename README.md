@@ -61,7 +61,7 @@
 
 [website]: https://starwalt.github.io/
 [twitter]: https://twitter.com/sandykarth
-[instagram]: https://www.instagram.com/santhosh_kar
+[instagram]: https://www.instagram.com/santhoshkumar_karthikeyan
 [linkedin]: https://www.linkedin.com/in/santhosh-kumar-0415617b/
 [facebook]: https://www.facebook.com/santhosh.sandy.5076
 [whatsapp]: https://wa.me/9566911041
