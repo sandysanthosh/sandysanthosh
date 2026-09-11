@@ -25,21 +25,6 @@ Maven • Git • Jenkins • JUnit • Mockito • Agile/Scrum
 **Additional**
 Kafka • Spring Batch • Docker • AWS • CI/CD
 
-### 🚀 Featured Projects
-
-- Spring Boot Microservices
-- API Development Tool
-- Java AI Chatbot
-- Coding Interview Resources
-
-### 📚 Currently Learning
-
-- Advanced Spring Boot & Microservices
-- System Design
-- Docker & Kubernetes
-- AWS
-- Generative AI / LLM integration with Java
-
 - ### 🚀 Featured Projects
 
 - 🏗️ Spring Boot Microservices
@@ -48,6 +33,14 @@ Kafka • Spring Batch • Docker • AWS • CI/CD
 - 🗄️ Spring Boot + PostgreSQL
 - 🤖 Java AI Chatbot
 - ☕ Spring Boot CRUD Application
+- 
+### 📚 Currently Learning
+
+- Advanced Spring Boot & Microservices
+- System Design
+- Docker & Kubernetes
+- AWS
+- Generative AI / LLM integration with Java
 
 ### 🤝 Connect with me
 
