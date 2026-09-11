@@ -3,29 +3,28 @@
 ## Senior Java | Spring Boot | Microservices Engineer
 
 💻 9+ years of experience building and supporting enterprise applications,
-with strong expertise in Java, Spring Boot, Microservices and REST APIs.
+with strong expertise in **Java, Spring Boot, Microservices, and REST APIs**.
 
-🏦 Experience in Banking & Financial Services
-🌏 International exposure and experience working with global teams
-🚀 Currently strengthening Cloud, System Design, Microservices and AI skills
-🎯 2026 Goal: Contribute to Open Source & AI projects and build
-production-grade Java applications
+🏦 Experience in **Banking & Financial Services**  
+🌏 International exposure and experience working with global teams  
+🚀 Currently strengthening **Cloud, System Design, Microservices, and AI** skills  
+🎯 **2026 Goal:** Contribute to Open Source & AI projects and build production-grade Java applications
 
 ### 🛠️ Technical Skills
 
-**Backend**
+**Backend**  
 Java 8/17 • Spring Boot • Spring MVC • Microservices • REST APIs
 
-**Database**
+**Database**  
 Oracle • PostgreSQL • MySQL • SQL Server
 
-**Engineering**
+**Engineering**  
 Maven • Git • Jenkins • JUnit • Mockito • Agile/Scrum
 
-**Additional**
+**Additional**  
 Kafka • Spring Batch • Docker • AWS • CI/CD
 
-- ### 🚀 Featured Projects
+### 🚀 Featured Projects
 
 - 🏗️ Spring Boot Microservices
 - 📨 Spring Boot + Apache Kafka
@@ -33,15 +32,15 @@ Kafka • Spring Batch • Docker • AWS • CI/CD
 - 🗄️ Spring Boot + PostgreSQL
 - 🤖 Java AI Chatbot
 - ☕ Spring Boot CRUD Application
-- 
+
 ### 📚 Currently Learning
 
 - Advanced Spring Boot & Microservices
 - System Design
 - Docker & Kubernetes
 - AWS
-- Generative AI / LLM integration with Java
+- Generative AI / LLM Integration with Java
 
-### 🤝 Connect with me
+### 🤝 Connect with Me
 
 LinkedIn | GitHub | Email
