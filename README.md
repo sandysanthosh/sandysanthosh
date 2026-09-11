@@ -38,16 +38,17 @@
 
 ### Country:
 
-<img align="left" alt="India" width="26px" src="https://cdn.countryflags.com/thumbs/india/flag-400.png" >
+<img align="left" alt="India" width="26px" src="https://cdn.countryflags.com/vthumbs/india/flag-400.png" >
 <img align="left" alt="Spain" width="26px" src="https://cdn.countryflags.com/thumbs/spain/flag-400.png" >
 <img align="left" alt="Netherland" width="26px" src="https://cdn.countryflags.com/thumbs/netherlands/flag-400.png" >
 <img align="left" alt="France" width="26px" src="https://cdn.countryflags.com/thumbs/france/flag-400.png" >
-<img align="left" alt="Belgium" width="22px" src="https://cdn.countryflags.com/thumbs/belgium/flag-400.png" >
-<br />
+<img align="left" alt="Belgium" width="22px" src="https://cdn.countryflags.com/thumbs/belgium/flag-400.png">
+<img align="left" alt="Singapore" width="22px" src="https://cdn.countryflags.com/thumbs/Singapore/flag-400.png">
+<img align="left" alt="Malaysia" width="22px" src="https://cdn.countryflags.com/thumbs/Malaysia/flag-400.png">
 
 ### Education:
 
-<img align="left" alt="Belgium" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Vellore_Institute_of_Technology_seal_2017.svg/1200px-Vellore_Institute_of_Technology_seal_2017.svg.png" /></tr> B.TECH(IT) <img align="left" alt="Belgium" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" /> MBA </tr>
+<img align="left" alt="Belgi>um" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Vellore_Institute_of_Technology_seal_2017.svg/1200px-Vellore_Institute_of_Technology_seal_2017.svg.png" /></tr> B.TECH(IT) <img align="left" alt="Belgium" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1200px-BITS_Pilani-Logo.svg.png" /> MBA </tr>
 
 <br />
 
@@ -66,6 +67,7 @@
 [facebook]: https://www.facebook.com/santhosh.sandy.5076
 [whatsapp]: https://wa.me/9566911041
 [youtube]: https://www.youtube.com/channel/UCe5vo2diOtT4CDAUpauL1AQ 
+
 
 
 
