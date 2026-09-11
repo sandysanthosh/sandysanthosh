@@ -40,6 +40,15 @@ Kafka • Spring Batch • Docker • AWS • CI/CD
 - AWS
 - Generative AI / LLM integration with Java
 
+- ### 🚀 Featured Projects
+
+- 🏗️ Spring Boot Microservices
+- 📨 Spring Boot + Apache Kafka
+- 🔐 REST API Development & Security
+- 🗄️ Spring Boot + PostgreSQL
+- 🤖 Java AI Chatbot
+- ☕ Spring Boot CRUD Application
+
 ### 🤝 Connect with me
 
 LinkedIn | GitHub | Email
