@@ -55,6 +55,14 @@ I am actively developing recruiter-ready projects that demonstrate:
 3. Secure REST APIs with authentication, authorisation, tests, and documentation
 4. Java AI/LLM integration for practical enterprise workflows
 
+
+## Featured Projects
+
+- [Spring Boot Microservices](https://github.com/sandysanthosh/SPRING-BOOT-MICROSERVICES) — Java 8 Spring Boot sample with runnable REST endpoints, integration tests, Maven CI, CodeQL analysis, and contributor guidance.
+- [Spring Boot Kafka](https://github.com/sandysanthosh/Spring-Boot-Kafka) — Kafka producer/consumer examples plus production-readiness guidance for retries, dead-letter topics, monitoring, and incident triage.
+- [Spring Boot PostgreSQL](https://github.com/sandysanthosh/Spring-Boot-Postgres) — Spring Data JPA and PostgreSQL reference with a repeatable local Docker Compose setup.
+- [REST API Documentation](https://github.com/sandysanthosh/REST-API-DOC) — Practical REST conventions, error-response standards, and HTTP status-code guidance.
+
 ## Career Interests
 
 **Target roles:** Senior Java Engineer · Backend Engineer · Microservices Engineer  
